@@ -1,2 +1,2 @@
 # gazillion
-Big number library made in c
+Big int library made in c
